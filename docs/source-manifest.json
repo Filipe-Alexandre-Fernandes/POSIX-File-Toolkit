@@ -1,0 +1,50 @@
+{
+  "archive": "Trabalho-SO-a31511-a30623-a31498-a23508.zip",
+  "original_files": [
+    {
+      "source": "acrescenta.c",
+      "bytes": 1016,
+      "sha256": "fa37a061d1b14ea445bd88335d2c97bf469f585bffed7589cd755d6ae1d58699"
+    },
+    {
+      "source": "apaga.c",
+      "bytes": 423,
+      "sha256": "d2c460c9773b579b1a1ca17f5a4413aed2ef3ace67790ecb96661bf4569fae5f"
+    },
+    {
+      "source": "conta.c",
+      "bytes": 676,
+      "sha256": "e6561d0cc188efbb1d58f1c52b4e400b646968b640dd01f1ab8ee8bba3ee9b0d"
+    },
+    {
+      "source": "copia.c",
+      "bytes": 1129,
+      "sha256": "d01c71006df48fb990975e84e5bc6e38a50c30c5ba58fc3544d6d1c45cd3a58d"
+    },
+    {
+      "source": "informa.c",
+      "bytes": 2167,
+      "sha256": "848c79e9235a9fd3e504a4bf989e5b9d9bbc872d78d9c1e80c35847a8dc6e13d"
+    },
+    {
+      "source": "interpretador.c",
+      "bytes": 1557,
+      "sha256": "3a67c4c5059abe0b29e346b1893fafa796b65aaa2855ee89b804848511ee0435"
+    },
+    {
+      "source": "lista.c",
+      "bytes": 911,
+      "sha256": "a743e12c346aac9bc7a7803345362de544febbe5213625ec56bcd7b1e2e9394b"
+    },
+    {
+      "source": "mostra.c",
+      "bytes": 1149,
+      "sha256": "077c47fc33883c044f143ca91ae16373b60a9b62c0bcd092cbaf5d231e257b43"
+    },
+    {
+      "source": "Relatorio-SO.pdf",
+      "bytes": 1559080,
+      "sha256": "a365f5df7c06ec8441b82093976078f9cc8df3d5e7806df443d5c719286f0fa3"
+    }
+  ]
+}
